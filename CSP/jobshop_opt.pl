@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Vassilis Panagakis 		 %
+% Vassilis Panagakis         %
 % jobshop_opt.pl             %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
