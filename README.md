@@ -80,6 +80,3 @@ Cost = 13
 
 ## Author
 Vassilis Panagakis
-
-## Date
-April 2020
